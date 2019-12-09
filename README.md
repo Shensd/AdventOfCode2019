@@ -12,5 +12,6 @@ Here is a list of challenges I have completed with what language used:
 | 2   | [1202 Program Alarm](https://adventofcode.com/2019/day/2) | C++ |
 | 3   | [Crossed Wires](https://adventofcode.com/2019/day/3) | C++ |
 | 4   | [Secure Container](https://adventofcode.com/2019/day/4) | Python |
+| 5   | [Sunny with a Chance of Asteroids](https://adventofcode.com/2019/day/5) | C++ |
 
 I am hoping by making this public that it will push me more to keep on top of getting the challenges done every day.

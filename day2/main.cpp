@@ -46,7 +46,7 @@ std::string get_file_content(std::string location) {
 }
 
 /**
- * Given a string source, parse the opcodes into a unsigned int vector.
+ * Given a string source, parse the opcodes into an unsigned int vector.
  * 
  * @param source opcode source 
  * @returns vector of unsigned integers representing opcodes
