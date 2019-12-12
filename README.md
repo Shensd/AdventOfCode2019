@@ -14,5 +14,7 @@ Here is a list of challenges I have completed with what language used:
 | 4   | [Secure Container](https://adventofcode.com/2019/day/4) | Python |
 | 5   | [Sunny with a Chance of Asteroids](https://adventofcode.com/2019/day/5) | C++ |
 | 6   | [Universal Orbit Map](https://adventofcode.com/2019/day/6) | TypeScript |
+| 7   | [Amplification Circuit](https://adventofcode.com/2019/day/7) | C++ |
+| 8   | [Space Image Format](https://adventofcode.com/2019/day/8) | Python |
 
 I am hoping by making this public that it will push me more to keep on top of getting the challenges done every day.
