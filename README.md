@@ -16,5 +16,6 @@ Here is a list of challenges I have completed with what language used:
 | 6   | [Universal Orbit Map](https://adventofcode.com/2019/day/6) | TypeScript | ** |
 | 7   | [Amplification Circuit](https://adventofcode.com/2019/day/7) | C++ | ** |
 | 8   | [Space Image Format](https://adventofcode.com/2019/day/8) | Python | ** |
+| 9   | [Sensor Boost](https://adventofcode.com/2019/day/9) | C++ | ** |
 
 I am hoping by making this public that it will push me more to keep on top of getting the challenges done every day.
